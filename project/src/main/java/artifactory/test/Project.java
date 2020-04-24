@@ -1,7 +1,7 @@
 package artifactory.test;
 
 /**
- * Hello world!
+ * Hello world! print this text
  */
 public class Project {
     public static void main(String[] args) {
